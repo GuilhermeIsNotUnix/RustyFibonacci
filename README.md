@@ -1,5 +1,7 @@
 # RustyFibonacci
 
+![Screenshot](rustyfibonacci.png)
+
 RustyFibonacci é uma implementação de minha autoria da "Sequência de Fibonacci", feito em Rust;
 
 ## O que é
